@@ -23,7 +23,6 @@ CREATE DATABASE company_database;
 ```
 
 3. Clone the Repository in your machine.
-
 4. Update your `application.yml` file according to your environment.
 
 ## 📮 API Usage with Postman
