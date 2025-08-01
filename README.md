@@ -1,6 +1,6 @@
 # 🧾 Project Quote API
 
-This is a full-stack project consisting of a **Spring Boot** backend (Java, Maven) and a **React** frontend. The backend exposes RESTful APIs for submitting and listing project quote requests, using **PostgreSQL** for persistence, **Spring Data JPA** for ORM, and **Lombok** to reduce boilerplate code.
+This is a Full-stack project consisting of a **Spring Boot** Backend (Java, Maven) and a **React** Frontend. The Backend exposes RESTful APIs for submitting and listing project quote requests, using **PostgreSQL** for persistence, **Spring Data JPA** for ORM, and **Lombok** to reduce boilerplate code.
 
 ## 🌐 Frontend
 
