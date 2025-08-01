@@ -30,7 +30,7 @@ CREATE DATABASE company_database;
 1. POST:
 
 **URL** - `http://localhost:8080/api/v1/project-quote/submit-details`
-**Request Body**
+**Request Body:**
 ```json
 {
   "name": "Some Name",
