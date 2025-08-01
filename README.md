@@ -22,7 +22,7 @@ This is a Full-stack project consisting of a **Spring Boot** Backend (Java, Mave
 CREATE DATABASE company_database;
 ```
 
-3. Clone the Repository in your machine.
+3. Clone the Repository on your machine.
 4. Update your `application.yml` file according to your environment.
 
 ## 📮 API Usage with Postman
