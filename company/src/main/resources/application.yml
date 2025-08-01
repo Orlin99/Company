@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: company
+  datasource:
+    url: jdbc:postgresql://localhost:5432/company_database
+    username: postgres
+    password: 55412678910
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
